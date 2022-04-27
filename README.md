@@ -1,2 +1,3 @@
 # birthday-reminder
-developed using react. react practice projects.
+React small project. Implemented using **useState**.
+Go to master branch.
